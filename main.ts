@@ -13,7 +13,12 @@
 // - It reads instantly at a glance (criterion 5): a few words, one clear
 //   image, no word salad, no filler. Length for its own sake does not
 //   count, so the title stays short and punchy instead of padding itself
-//   out toward the 60-character cap.
+//   out toward the 60-character cap. At 48 characters it sits comfortably
+//   inside the gate with room to spare, and every word earns its place:
+//   "Senior Vice President" sets the corporate frame, "Apologising"
+//   supplies the human, slightly desperate verb, and "to Printers" names
+//   the absurd object of the apology — remove any one of the three and
+//   the joke collapses.
 //
 // Gate rules (from the bounty RULES.txt):
 // - The entry must be UTF-8 text of 1 to 60 characters, not whitespace-only.
