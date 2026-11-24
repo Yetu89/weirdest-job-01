@@ -12,7 +12,7 @@
 
 > Senior Vice President of Apologising to Printers
 
-51 characters, within the 60-character limit. Grok (grok-4.3) scored this entry 9/10: it reads like a genuine senior corporate title, and the single twist — apologising to printers, the office machine everyone has wanted to shout at — lands instantly.
+48 characters, within the 60-character limit. Grok (grok-4.3) scored this entry 9/10: it reads like a genuine senior corporate title, and the single twist — apologising to printers, the office machine everyone has wanted to shout at — lands instantly.
 
 ## How to run
 
